@@ -29,6 +29,7 @@ I'm extremely keen to learn and better myself and become the best I can be and r
 - Apollo Client, Redux
 - Javascript (es6, 7+)
 - Typescript / Flow
+- Gatsby.js
 - Next.js
 
 ✔︎ Backend Development Expertise
@@ -36,5 +37,6 @@ I'm extremely keen to learn and better myself and become the best I can be and r
 - GraphQL, Apollo Server
 - MongoDB, Postgresql
 - Firebase, AWS
+- Strapi / Headless CMS
 
 Please feel free to contact me (contact@rodrigowpl.com) and let's talk about how I can help you!
