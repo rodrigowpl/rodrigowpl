@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer with over 7 years of experience.
+I'm a software engineer with over 8 years of experience.
 
 I've gained experience and knowledge in developing powerful, highly usable mobile and web apps that bring ideas to life.
 
