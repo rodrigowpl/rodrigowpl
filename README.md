@@ -20,23 +20,22 @@ I'm extremely keen to learn and better myself and become the best I can be and r
 - Product Analysis
 
 ✔︎ Mobile Development expertise
-- React Native (expo-cli, react-native-cli) (Nanodegree by Udacity)
-- Android App Development (Java)
-- Typescript / Flow
+- React Native (Expo, react-native-cli)
+- Android and IOS play/app store management
+- Typescript
 
 ✔︎ Web Development Expertise
-- React.js (Nanodegree by Udacity)
-- Apollo Client, Redux
-- Javascript (es6, 7+)
-- Typescript / Flow
-- Gatsby.js
+- Reactjs
+- Apollo Client
+- Javascript
+- Typescript
 - Next.js
 
 ✔︎ Backend Development Expertise
-- Node.js, Express.js, Koa.js, Java
+- Node.js, Express.js, Koa.js
 - GraphQL, Apollo Server
 - MongoDB, Postgresql
-- Firebase, AWS
+- AWS
 - Strapi / Headless CMS
 
 Please feel free to contact me (contact@rodrigowpl.com) and let's talk about how I can help you!
