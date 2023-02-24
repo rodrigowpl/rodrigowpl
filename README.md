@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-I'm a software engineer with over 8 years of experience.
+As a seasoned software engineer with more than eight years of professional experience, I have garnered expertise in developing robust, user-friendly mobile and web applications that bring ideas to life. Currently, I serve as the Chief Technology Officer (CTO) at Divisio.
 
-I've gained experience and knowledge in developing powerful, highly usable mobile and web apps that bring ideas to life.
+My commitment to providing exceptional outcomes for my clients is unwavering, and I prioritize offering comprehensive support and ensuring their satisfaction. In pursuit of fostering productive and efficient partnerships, I maintain transparent communication to promote professionalism, trust, and mutual success.
 
-I'm dedicated to delivering results to my clients and do my utmost to make sure they are looked after and supported in the best way possible along with keeping an open dialogue to maintain a professional relationship and be productive, efficient and above all trust between both parties.
+I thrive in a collaborative team environment and excel in generating innovative ideas that drive business growth. As a highly motivated, trustworthy, and committed professional, I strive to make meaningful contributions to the success of your esteemed organization.
 
-I love to work as part of a team to discuss and develop new ideas what can be beneficial to the company. I'm a highly motivated, trustworthy and loyal individual who will aim to make a positive contribution to your company.
+I take great pride in demonstrating exceptional initiative and the ability to effectively resolve any challenges that may arise. Furthermore, I maintain a high standard of punctuality and professional appearance.
 
-I pride myself on having excellent initiative and find a solution to any problem encountered not to mention my timekeeping and personal appearance are of an excellent standard.
-
-I'm extremely keen to learn and better myself and become the best I can be and represent your company in a positive and productive manner.
+I am highly motivated to continually develop my skills and knowledge, and strive to attain the highest level of excellence in representing your company in a positive and productive manner.
 
 ✔︎ Core competences
 - Mobile App Development
