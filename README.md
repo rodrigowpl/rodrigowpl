@@ -20,21 +20,26 @@ I am highly motivated to continually develop my skills and knowledge, and strive
 ✔︎ Mobile Development expertise
 - React Native (Expo, react-native-cli)
 - Android and IOS play/app store management
-- Typescript
 
 ✔︎ Web Development Expertise
-- Reactjs
+- React.js
 - Apollo Client
 - Javascript
 - Typescript
 - Next.js
 - ChakraUI
+- Cypress
+- Jest
 
 ✔︎ Backend Development Expertise
 - Node.js, Express.js, Koa.js
 - GraphQL, Apollo Server
 - MongoDB, Postgresql
-- AWS
 - Strapi / Headless CMS
 
-Please feel free to contact me (contact@rodrigowpl.com) and let's talk about how I can help you!
+✔︎ Infra-structure Expertise
+- AWS
+- Digital Ocean
+- Docker
+
+Please feel free to contact me (developer@rodrigowpl.com) and let's talk about how I can help you!
