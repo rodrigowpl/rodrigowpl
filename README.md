@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a seasoned software engineer with 10 years of professional experience now, I have garnered expertise in developing robust, user-friendly mobile and web applications that bring ideas to life. Currently, I serve as the Chief Technology Officer (CTO) at Divisio.
+As a seasoned software engineer with 10 years of professional experience now, I have garnered expertise in developing robust, user-friendly mobile and web applications that bring ideas to life.
 
 My commitment to providing exceptional outcomes for my clients is unwavering, and I prioritize offering comprehensive support and ensuring their satisfaction. In pursuit of fostering productive and efficient partnerships, I maintain transparent communication to promote professionalism, trust, and mutual success.
 
