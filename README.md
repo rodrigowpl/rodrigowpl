@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As a seasoned software engineer with 10 years of professional experience now, I have garnered expertise in developing robust, user-friendly mobile and web applications that bring ideas to life.
+As a seasoned software engineer with 12 years of professional experience now, I have garnered expertise in developing robust, user-friendly mobile and web applications that bring ideas to life.
 
 My commitment to providing exceptional outcomes for my clients is unwavering, and I prioritize offering comprehensive support and ensuring their satisfaction. In pursuit of fostering productive and efficient partnerships, I maintain transparent communication to promote professionalism, trust, and mutual success.
 
@@ -16,6 +16,7 @@ I am highly motivated to continually develop my skills and knowledge, and strive
 - Backend Development
 - Technical consultant for Startups or small companies
 - Product Analysis
+- AI Engineering
 
 ✔︎ Mobile Development expertise
 - React Native (Expo, react-native-cli)
@@ -27,7 +28,7 @@ I am highly motivated to continually develop my skills and knowledge, and strive
 - Javascript
 - Typescript
 - Next.js
-- ChakraUI
+- Tailwind
 - Cypress
 - Jest
 
@@ -37,9 +38,15 @@ I am highly motivated to continually develop my skills and knowledge, and strive
 - MongoDB, Postgresql
 - Strapi / Headless CMS
 
+✔︎ AI Engineering Expertise
+- Tensorflow
+- Langchain / Langgraph / Langsmith
+- Vector Databases / Neo4j
+- OpenRouter
+
 ✔︎ Infra-structure Expertise
 - AWS
-- Digital Ocean
+- Digital Ocean, Heroku
 - Docker
 
 Please feel free to contact me (developer@rodrigowpl.com) and let's talk about how I can help you!
