@@ -38,11 +38,16 @@ I am highly motivated to continually develop my skills and knowledge, and strive
 - MongoDB, Postgresql
 - Strapi / Headless CMS
 
-✔︎ AI Engineering Expertise
+✔︎ AI Engineering Applications
 - Tensorflow
 - Langchain / Langgraph / Langsmith
 - Vector Databases / Neo4j
 - OpenRouter
+
+✔︎ AI Engineering Tooling
+- Claude, Codex
+- Methodologies: Spec-Driven, Prompt Engineering
+- Agents, Skills to automate development workflow
 
 ✔︎ Infra-structure Expertise
 - AWS
